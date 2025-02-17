@@ -1,4 +1,4 @@
-# Thirty Sixty Clone website
+# Thirtysixstudio website Clone 
 
 ## Technology :
 
